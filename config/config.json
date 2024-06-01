@@ -1,0 +1,8 @@
+{
+  "token": "YOUR_TOKEN",
+  "antiBotEnabled": true,
+  "whitelist": [
+    "DISCORD_ID_01",
+    "DISCORD_ID_02"
+  ]
+}

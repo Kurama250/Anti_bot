@@ -1,0 +1,21 @@
+{
+  "name": "anti-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "github.com/Kurama250",
+  "license": "SEE LICENSE IN LICENCE.md",
+  "description": "This bot allows you to kick all other bots as long as security and enable !",
+  "dependencies": {
+    "@discordjs/builders": "^1.8.1",
+    "@discordjs/rest": "^2.3.0",
+    "discord.js": "^13.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com/Kurama250/Anti_bot"
+  }
+}
